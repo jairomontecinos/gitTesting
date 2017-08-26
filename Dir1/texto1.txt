@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 texto7
 texto7
 texto7
+=======
+texto1
+texto5
+
+texto5texto5
+texto5texto5
+>>>>>>> c86bfa742a5df96176cf9d5d361f50c3523b797c
